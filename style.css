@@ -66,6 +66,158 @@
 #logo-span{
     color: rgb(251, 173, 6);
 }
+.bio{
+  display: flex; 
+  border: 4px solid rgb(213, 125, 18);
+  background-image: url(mission-2022-main/images/shapes/shape-5.png); 
+  
+  margin-right: 5%;
+  margin-left: 5%;
+  height: 82%;
+  margin-top: 25%;
+  margin-bottom: 25%;
+  box-shadow: 10px 10px 45px rgb(55, 54, 54);
+}
+
+.personal-bio{
+    
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    padding:1%;
+    border: 2.5px solid rgb(226, 124, 0);
+    background-color:rgb(255, 255, 255);
+    
+    
+    
+    
+    
+}
+.personal-bio h2{
+    
+    
+}
+.personal-bio p{
+    
+    
+}
+
+.experience{
+    margin-top: 3%;
+    margin-bottom:3%;
+    padding:1%;
+    border: 2.5px solid rgb(0, 0, 0);
+    margin-left: 5%;
+    
+
+}
+.tool{
+    margin-top: 3%;
+    margin-bottom:3%;
+    padding:1%;
+    border: 2.5px solid  rgb(226, 124, 0);
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+#img-a{
+ width: 35%;
+ align-items: center;
+ padding-left: 35%;
+}
+.img-b{
+    width: 35%;
+    align-items: center;
+    padding-left: 35%;
+   }
+.img-c{
+    width: 35%;
+    align-items: center;
+    padding-left: 35%;
+   }
+#p-b-h{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    color: rgb(34, 9, 123);
+}
+#e-h{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    color: rgb(34, 9, 123);
+}
+#t-h{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    color: rgb(34, 9, 123);
+}
+#personal-p{
+    font-weight: 500;
+    font-size:19px ;
+    font-family: 'Lobster', cursive;
+}
+#footer{
+    padding-left:50px ;
+    padding-right: 50px;
+    margin: 10px;
+    
+    
+    
+}
+#p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.img-from{
+    margin-top: 28%;
+    margin-bottom: 28%;
+    padding-left: 5%;
+}
+.from{
+    padding-left:65% ;
+    margin-top:-50% ;
+    margin-bottom: 30%;    
+}
+
+#from-h{
+    color:rgb(23, 167, 215);
+    font-family: 'Concert One', cursive;
+    font-weight: 900;
+    font-size: 25px;
+}
+.from-input{
+    border: 2px solid rgb(225, 155, 63);
+    border-radius: 10px;
+   
+}
+.from-input:focus {
+    background-color: lightblue;
+  }
+  #from-h-s{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+    
+    font-family: 'Black Ops One', cursive;
+
+  }
+  .add-h-h{
+    text-align: center;
+    margin-top:20% ;
+    padding-top: 200px;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 20px;
+
+  }
+
+
+
 
 
 
